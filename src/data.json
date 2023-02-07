@@ -1,0 +1,32 @@
+{
+    "work": [
+        {
+            "name" : "TMDB",
+            "image" : "/assets/TMDB.png",
+            "description" : "Movie database page, using the movie database API. It has a movie search engine and a registered user can add movies their favorites panel.",
+            "gitHub" : "",
+            "live" : ""
+        },
+        {
+            "name" : "E-Commerce",
+            "image" : "../assets/E-Commerce.png",
+            "description" : "Ecommerce for the sale of sportswear.Features: User registration with form or Google SSO.CMS (CRUD for all items, with your brand, size, color).User's shopping cart, purchase history and payment.",
+            "gitHub" : "https://github.com/NazarenoRios/OlympicSports",
+            "live" : ""
+        },
+        {
+            "name" : "Prode",
+            "image" : "../assets/Prode.png",
+            "description" : "Online page for soccer tournaments in Argentina, Brazil and the United States. Where the user can vote for current matches on the tournament, get points and win awards depending on their country.",
+            "gitHub" : "https://github.com/NazarenoRios/Tonic3-Prode",
+            "live" : ""
+        },
+        {
+            "name" : "Space Tourism",
+            "image" : "../assets/Moon.png",
+            "description" : "Project that display information like planets, crew and technology for space travels from a .json file. Created with Javascript, React and CSS.",
+            "gitHub" : "https://github.com/GYauck/space-tourism",
+            "live" : "https://space-tourism-xi-blush.vercel.app"
+        }
+    ]
+}
