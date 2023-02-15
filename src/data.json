@@ -4,8 +4,8 @@
             "name" : "TMDB",
             "image" : "/assets/TMDB.png",
             "description" : "Movie database page, using the movie database API. It has a movie search engine and a registered user can add movies their favorites panel.",
-            "gitHub" : "",
-            "live" : ""
+            "gitHub" : "https://github.com/GYauck/TMDB",
+            "live" : "https://youtu.be/TkY9qrlpDpY"
         },
         {
             "name" : "E-Commerce",

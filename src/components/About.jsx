@@ -14,13 +14,13 @@ const About = () => {
         </div>
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
           <div className="sm:text-right text-4xl font-bold">
-            <p>Hi. I`m Gaston, nice to meet you. Please take a look around.</p>
+            <p>Don´t take life too seriously, cause you will never get out alive.</p>
           </div>
           <div>
             <p>
-              Since my childhood I have instilled hard work, dedication and
-              commitment so that our goals are met. This is what I always try to
-              apply in every project I start. After spending more than 9 years
+              The key to achieve our goals are hard work, dedication and
+              commitment. This is what I always try to apply in every project
+              I start. After spending more than 9 years
               as a computer-oriented administrative employee, I decided to
               change the course of my life by focusing on what I really like,
               which is programming. <br />I am open to any type of work and my
