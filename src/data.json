@@ -27,6 +27,13 @@
             "description" : "Project that display information like planets, crew and technology for space travels from a .json file. Created with Javascript, React and CSS.",
             "gitHub" : "https://github.com/GYauck/space-tourism",
             "live" : "https://space-tourism-xi-blush.vercel.app"
+        },
+        {
+            "name" : "Coffee Shop",
+            "image" : "../assets/coffeeShop.jpg",
+            "description" : "Frontend project for a subscription coffee shop.It shows a variety of coffees, with the option of putting together a personalized purchase order. Created with Javascript, React and CSS.",
+            "gitHub" : "https://github.com/GYauck/coffee-shop",
+            "live" : "https://coffee-shop-five-tau.vercel.app/"
         }
     ]
 }
